@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Processed by Kyle Adams's converter -->
+<cou:countries
+	xmlns:cou="http://library.littletown.tn/country"
+	xmlns:cit="http://library.littletown.tn/city">
+    <cou:country>
+        <cou:name>Denmark</cou:name>
+        <cou:region>Nordic Countries</cou:region>
+        <cou:code>DNK</cou:code>
+        <cou:population>5,330,000</cou:population>
+        <cit:cities>
+            <cit:city>
+                <cit:name>Aalborg</cit:name>
+                <cit:district>Nordjylland</cit:district>
+                <cit:population>161,161</cit:population>
+            </cit:city>
+            <cit:city>
+                <cit:name>Frederiksberg</cit:name>
+                <cit:district>Frederiksberg</cit:district>
+                <cit:population>90,327</cit:population>
+            </cit:city>
+            <cit:city>
+                <cit:name>København</cit:name>
+                <cit:district>København</cit:district>
+                <cit:population>495,699</cit:population>
+            </cit:city>
+            <cit:city>
+                <cit:name>Odense</cit:name>
+                <cit:district>Fyn</cit:district>
+                <cit:population>183,912</cit:population>
+            </cit:city>
+            <cit:city>
+                <cit:name>Århus</cit:name>
+                <cit:district>Århus</cit:district>
+                <cit:population>284,846</cit:population>
+            </cit:city>
+        </cit:cities>
+    </cou:country>
+    <cou:country>
+        <cou:name>Djibouti</cou:name>
+        <cou:region>Eastern Africa</cou:region>
+        <cou:code>DJI</cou:code>
+        <cou:population>638,000</cou:population>
+        <cit:cities>
+            <cit:city>
+                <cit:name>Djibouti</cit:name>
+                <cit:district>Djibouti</cit:district>
+                <cit:population>383,000</cit:population>
+            </cit:city>
+        </cit:cities>
+    </cou:country>
+    <cou:country>
+        <cou:name>Dominica</cou:name>
+        <cou:region>Caribbean</cou:region>
+        <cou:code>DMA</cou:code>
+        <cou:population>71,000</cou:population>
+        <cit:cities>
+            <cit:city>
+                <cit:name>Roseau</cit:name>
+                <cit:district>St George</cit:district>
+                <cit:population>16,243</cit:population>
+            </cit:city>
+        </cit:cities>
+    </cou:country>
+</cou:countries>
